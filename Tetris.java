@@ -1,6 +1,4 @@
-/**
- *  DO NOT MODIFY THIS CLASS
- */
+
 package model;
 
 public class Tetris extends Game {
