@@ -1,11 +1,3 @@
-/**
- *  Data Structure Summer 2018
- *  Project 1
- *  Trenton Yuntian Wang
- *  ywang382@jhu.edu
- *  July 9, 2018
- * 
- */
 
 
 package model;
