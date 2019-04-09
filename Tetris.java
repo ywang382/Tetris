@@ -125,8 +125,6 @@ public class Tetris extends Game {
 			n = piece;
 		Tetromino p = null;
 		
-		n = 1;
-		
 		switch(n) {
 		case 1:
 			p = new I(this);
